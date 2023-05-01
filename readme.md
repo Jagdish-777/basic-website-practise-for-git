@@ -1,5 +1,6 @@
 This is a basic html file
-created for the purpose to practise
+Created for the purpose to practise
 
-details about the file
-there is index.html page in here.
+Details about the file
+There is index.html page in here.
+There is also stylesheet which is used to display color in the background.
